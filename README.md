@@ -1,4 +1,4 @@
 # First
-Author - Sachidananda Gouda
+Author - Sachidananda Gouda <br>
 **Bold**
 *Italic*
